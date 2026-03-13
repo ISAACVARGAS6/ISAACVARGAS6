@@ -2,7 +2,6 @@
 
 Desarrollador Web Junior con enfoque en frontend y backend. Me especializo en crear aplicaciones web y móviles funcionales con React, React Native, FastAPI y Laravel. Me interesa el desarrollo full-stack, la mejora continua y la construcción de proyectos con lógica real y buena experiencia de usuario.
 
-Actualmente me encuentro buscando mi primera oportunidad profesional como desarrollador junior.
 
 ---
 
