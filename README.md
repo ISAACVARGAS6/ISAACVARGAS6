@@ -1,184 +1,92 @@
 # Isaac Vargas
 
-**Web Developer | IT Support | Full-Stack Development**
+### Full Stack Developer | React, Next.js, Python, FastAPI & Laravel
 
-Desarrollador Web Junior con experiencia en desarrollo de aplicaciones web y móviles, así como en soporte y resolución de problemas de TI.
+Desarrollador Web egresado de la Universidad de Guadalajara, enfocado en el desarrollo **full-stack** de aplicaciones web y móviles.
 
-Trabajo principalmente con **React, React Native, FastAPI y Laravel**, y tengo especial interés en el desarrollo backend, las APIs REST y la construcción de aplicaciones que resuelvan problemas reales.
+Me interesa construir aplicaciones funcionales de principio a fin: desde la interfaz y la experiencia de usuario hasta las APIs, lógica de negocio y persistencia de datos.
 
-También cuento con experiencia práctica en entornos Windows, soporte técnico, administración de sistemas y troubleshooting de infraestructura.
-
----
-
-## Tecnologías
-
-### Frontend
-
-* React
-* Next.js
-* React Native
-* HTML5
-* CSS3
-* JavaScript
-* TypeScript
-
-### Backend
-
-* FastAPI / Python
-* Laravel / PHP
-* Node.js
-* Express
-* API REST
-
-### Bases de datos
-
-* SQLite
-* MySQL
-* Turso
-
-### IT & Sistemas
-
-* Windows 10/11
-* Active Directory
-* Microsoft 365
-* DNS / DHCP
-* TCP/IP
-* Networking
-* Troubleshooting
-
-### Herramientas
-
-* Git / GitHub
-* Linux
-* VS Code
-* Postman
-* Docker
+Actualmente también cuento con experiencia en **soporte e infraestructura de TI**, lo que me permite comprender tanto el desarrollo de software como el entorno técnico donde las aplicaciones operan.
 
 ---
 
-## Proyectos Destacados
+## Proyectos destacados
 
 ### NetworkInventoryApp
 
-Aplicación web para descubrimiento e inventario de dispositivos dentro de una red IPv4.
+Aplicación full-stack para **descubrimiento e inventario de dispositivos en una red local**.
 
-El proyecto combina desarrollo de software con conceptos de networking e infraestructura, permitiendo descubrir dispositivos, recopilar información de red y mantener un inventario consultable.
+El proyecto combina un backend en Python con una interfaz web para ejecutar escaneos, identificar dispositivos y visualizar la información obtenida.
 
-**Tecnologías:**
+**Stack:** Python · FastAPI · React · JavaScript · REST API
 
-* React
-* FastAPI
-* Python
-* SQLAlchemy
-* SQLite
-* Networking / TCP/IP
-
-**Repositorio:**
-https://github.com/ISAACVARGAS6/NetworkInventoryApp
+[Ver repositorio](https://github.com/ISAACVARGAS6/NetworkInventoryApp)
 
 ---
 
 ### LifePlanner
 
-Aplicación móvil para Android enfocada en la gestión de proyectos y tareas personales, con organización por prioridades y seguimiento del progreso.
+Aplicación móvil para **gestión de proyectos, tareas y prioridades**, desarrollada con React Native y conectada a un backend propio.
 
-El proyecto cuenta con frontend móvil, backend propio, persistencia de datos e integración con servicios de monetización.
+Incluye organización de proyectos, subtareas, prioridades y seguimiento del progreso.
 
-**Funciones principales:**
+**Stack:** React Native · Expo · FastAPI · Python · SQLite
 
-* Creación y gestión de proyectos
-* Creación y organización de tareas
-* Subtareas
-* Prioridades
-* Seguimiento del progreso
-* Comunicación con backend mediante API REST
-* Persistencia de datos
-* Monetización mediante Google AdMob
-
-**Tecnologías:**
-
-* React Native
-* Expo
-* FastAPI
-* Python
-* SQLite
-* REST API
-
-**Repositorio:**
-https://github.com/ISAACVARGAS6/LifePlanner
+[Ver repositorio](https://github.com/ISAACVARGAS6/LifePlanner)
 
 ---
 
 ### HabitTracker
 
-Aplicación web full-stack para el seguimiento de hábitos, con sistema de progreso, rachas, puntos, niveles y estadísticas.
+Aplicación web para el **seguimiento de hábitos**, con registro de progreso, rachas, estadísticas y gestión de hábitos diarios y semanales.
 
-**Funciones principales:**
+**Stack:** React · JavaScript
 
-* Registro e inicio de sesión
-* Creación y gestión de hábitos
-* Hábitos diarios y semanales
-* Sistema de puntos y niveles
-* Seguimiento de rachas
-* Estadísticas de progreso
-* Persistencia de datos
-
-**Tecnologías:**
-
-* React
-* FastAPI
-* Python
-* API REST
-* SQLite
-
-**Repositorio:**
-https://github.com/ISAACVARGAS6/HabitTracker
+[Ver repositorio](https://github.com/ISAACVARGAS6/HabitTracker)
 
 ---
 
 ### PokedexInteractivo
 
-Aplicación web interactiva desarrollada con Next.js y TypeScript, enfocada en el consumo y presentación de información mediante una interfaz dinámica.
+Aplicación web interactiva desarrollada con Next.js para explorar y consultar información de Pokémon.
 
-**Tecnologías:**
+**Stack:** Next.js · TypeScript
 
-* Next.js
-* TypeScript
-* React
-* API REST
-
-**Repositorio:**
-https://github.com/ISAACVARGAS6/PokedexInteractivo
+[Ver repositorio](https://github.com/ISAACVARGAS6/PokedexInteractivo)
 
 ---
 
-## Sobre mí
+## Enfoque
 
-* Egresado de Desarrollo Web de la Universidad de Guadalajara
-* Experiencia práctica en desarrollo web, aplicaciones móviles y soporte de TI
-* Interesado especialmente en backend y desarrollo full-stack
-* Me gusta entender cómo funcionan las tecnologías por dentro
-* En constante aprendizaje y mejora de mis proyectos
-* Interesado en desarrollar soluciones prácticas y mantenibles
+* Desarrollo de aplicaciones **Full Stack**
+* Desarrollo de APIs REST
+* Interfaces web con React y Next.js
+* Backend con Python/FastAPI y Laravel
+* Bases de datos relacionales
+* Integración entre frontend y backend
+* Desarrollo de aplicaciones móviles con React Native
+* Resolución de problemas técnicos e infraestructura de TI
+
+---
+
+## Experiencia técnica
+
+Además del desarrollo de software, cuento con experiencia práctica en **soporte de TI, administración de equipos, redes, Windows, Active Directory, DNS, DHCP y resolución de incidencias**.
+
+Esta combinación me permite abordar los problemas desde una perspectiva tanto de **software como de infraestructura**.
 
 ---
 
 ## Actualmente
 
-Estoy desarrollando y mejorando proyectos personales orientados a **desarrollo web, backend, aplicaciones móviles y herramientas para TI**.
+Estoy enfocado en seguir creciendo como **Full Stack Developer**, fortaleciendo especialmente mis conocimientos de backend, APIs, bases de datos y arquitectura de aplicaciones.
 
-Mi objetivo es seguir consolidando experiencia profesional en desarrollo de software, especialmente en posiciones relacionadas con **backend, full-stack y desarrollo de aplicaciones**.
+Me interesa participar en proyectos donde pueda desarrollar soluciones completas y seguir adquiriendo experiencia profesional en desarrollo de software.
 
 ---
 
 ## Contacto
 
-**GitHub:**
-https://github.com/ISAACVARGAS6
-
-**Correo:**
-[drawcommissions@gmail.com](mailto:drawcommissions@gmail.com)
-
----
-
-Este perfil se encuentra en desarrollo constante.
+* GitHub: [ISAACVARGAS6](https://github.com/ISAACVARGAS6)
+* LinkedIn: [Isaac Vargas](https://www.linkedin.com/in/isaac-vargas-c%C3%A1rdenas-9a115221a/)
+* e-mail: drawcommissions@gmail.com
